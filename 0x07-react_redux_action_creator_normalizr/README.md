@@ -1,1 +1,1 @@
-## 0x07. React Redux action creator+normalizr
+Details about the react redux action project
